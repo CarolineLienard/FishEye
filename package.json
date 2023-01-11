@@ -1,0 +1,23 @@
+{
+  "name": "fisheye",
+  "version": "1.0.0",
+  "description": "A project with vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolineLienard/FishEye"
+  },
+  "author": "Caroline Lienard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolineLienard/FishEye/issues"
+  },
+  "homepage": "https://github.com/CarolineLienard/FishEye#readme",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-plugin-react": "^7.30.1"
+  }
+}
